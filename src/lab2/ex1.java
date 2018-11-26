@@ -1,7 +1,5 @@
 package lab2;
 
-import java.util.concurrent.SynchronousQueue;
-
 public class ex1 {
     public static void main(String[] args) {
 
@@ -33,3 +31,4 @@ public class ex1 {
     }//main
 
 }//class
+
