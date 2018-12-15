@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="" />
+    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="Lab 2: Variables">
+      <change afterPath="$PROJECT_DIR$/src/lab3/Quiz1_BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,24 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="intro.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab1/intro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab2/ex1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab2/ex2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,17 +43,17 @@
       <file leaf-file-name="ex3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab2/ex3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="43" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab2/ex4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -98,6 +85,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ex1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab3/ex1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab3/ex2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quiz1_BMI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab3/Quiz1_BMI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -122,12 +136,16 @@
         <option value="$PROJECT_DIR$/src/lab2/ex5.java" />
         <option value="$PROJECT_DIR$/src/lab2/ex6.java" />
         <option value="$PROJECT_DIR$/src/lab2/ex7.java" />
+        <option value="$PROJECT_DIR$/src/lab3/ex1.java" />
+        <option value="$PROJECT_DIR$/src/lab3/ex3.java" />
+        <option value="$PROJECT_DIR$/src/lab3/ex2.java" />
+        <option value="$PROJECT_DIR$/src/lab3/Quiz1_BMI.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="241" />
-    <option name="y" value="4" />
+    <option name="x" value="484" />
+    <option name="y" value="94" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -162,6 +180,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OOP358411110063" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP358411110063" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -189,39 +213,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ex7">
+  <component name="RunManager" selected="Application.Quiz1_BMI">
+    <configuration name="Quiz1_BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.Quiz1_BMI" />
+      <module name="OOP358411110063" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.ex3" />
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ex1" />
       <module name="OOP358411110063" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.ex4" />
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ex2" />
       <module name="OOP358411110063" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.ex5" />
-      <module name="OOP358411110063" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,19 +311,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ex3" />
-      <item itemvalue="Application.ex4" />
-      <item itemvalue="Application.ex5" />
       <item itemvalue="Application.ex6" />
       <item itemvalue="Application.ex7" />
+      <item itemvalue="Application.ex1" />
+      <item itemvalue="Application.ex2" />
+      <item itemvalue="Application.Quiz1_BMI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quiz1_BMI" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.ex2" />
         <item itemvalue="Application.ex7" />
         <item itemvalue="Application.ex6" />
-        <item itemvalue="Application.ex5" />
-        <item itemvalue="Application.ex4" />
-        <item itemvalue="Application.ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544860938269</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab 2: Variables">
+      <created>1544861369397</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544861369398</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -381,7 +412,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32900432" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284055" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -393,13 +424,13 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17239584" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -494,17 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex5.java">
+    <entry file="file://$PROJECT_DIR$/src/lab2/ex7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -515,17 +539,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex7.java">
+    <entry file="file://$PROJECT_DIR$/src/lab2/ex5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ex3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab2/ex4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab2/ex3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/Quiz1_BMI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
