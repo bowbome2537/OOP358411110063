@@ -1,5 +1,6 @@
 package lab5;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex1 {
@@ -21,10 +22,26 @@ public class ex1 {
         findMin(myNum);
         //finding maximum integer in array
         findmax(myNum);
-
-
+        //finding average value in array
+        findAverage(myNum);
+        //sorting array low -> high
+        sortArray(myNum);
 
     }//main
+
+    private static void sortArray(int[] myNum) {
+        Arrays.sort(myNum);
+        System.out.println("Sorting Data in array: ");
+        showData (myNum);
+    }
+
+    private static void findAverage(int[] myNum) {
+        double total = 0;
+        for (int val:myNum){
+            total += val;
+        }
+        System.out.println("The average value is: "+(total/myNum.length));
+    }
 
     private static void findmax(int[] myNum) {
         int max = myNum[0];
