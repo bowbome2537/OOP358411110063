@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/MidTerm/TexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/StudentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="621">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -383,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545640390082</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lab 7">
+      <created>1548660239005</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548660239005</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -401,12 +406,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32900432" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284055" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32946146" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.250264" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.218585" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.496875" weight="0.2900433" />
       <window_info id="Capture Tool" order="2" />
@@ -425,7 +431,6 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284055" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -440,7 +445,8 @@
     <MESSAGE value="Lab 5: findmin" />
     <MESSAGE value="Lab 6: String" />
     <MESSAGE value="Lab 6: StringBuffer &amp; StringTokenizer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 6: StringBuffer &amp; StringTokenizer" />
+    <MESSAGE value="Lab 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lab7/Student.java">
@@ -794,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab7/StudentApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="621">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
