@@ -14,10 +14,14 @@ public class StudentApp {
         std1.setId("358411110063");
         System.out.println(std1.getId());
         ///////////////////////
-        Student std2 = new Student("358411110063", "Girl", 'F');
+        Student std2 = new Student("358411110063",
+                "Girl", 'F');
 
         System.out.println(std1.getName());
         System.out.println(std2.getName());
+
+        System.out.println(std1.toString());
+        System.out.println(std2.toString());
 
     }
 }//class

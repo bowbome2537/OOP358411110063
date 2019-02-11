@@ -25,15 +25,20 @@ public class Student {
     public String getName(){
         return this.name;
     }
-    public void setName(String name){
-        this.name = name;
-    }
+    public void setName(String name){ this.name = name; }
     public char getGender(){
         return this.gender;
     }
-    public void setGender(char gender){
-        this.gender = gender;
+    public void setGender(char gender){ this.gender = gender; }
+    // toString
+
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", gender=" + gender +
+                '}';
     }
-
-
 }//class
