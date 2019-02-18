@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="MidTerm">
-      <change afterPath="$PROJECT_DIR$/src/lab8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/PersonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/Police.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/sheriff.java" afterDir="false" />
+    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/bankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab8/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,87 +31,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TexCalculater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculater.java">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CaseStudy/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state>
+              <caret selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab8/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Honda.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab8/Honda.java">
+      <file leaf-file-name="bankAccount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CaseStudy/bankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="35" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
+      <file leaf-file-name="BankApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CaseStudy/BankApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sheriff.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab8/sheriff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding>
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Police.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab8/Police.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab8/PersonApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="475">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -173,6 +128,9 @@
         <option value="$PROJECT_DIR$/src/lab8/sheriff.java" />
         <option value="$PROJECT_DIR$/src/lab8/Police.java" />
         <option value="$PROJECT_DIR$/src/lab8/PersonApp.java" />
+        <option value="$PROJECT_DIR$/src/CaseStudy/Customer.java" />
+        <option value="$PROJECT_DIR$/src/CaseStudy/bankAccount.java" />
+        <option value="$PROJECT_DIR$/src/CaseStudy/BankApp.java" />
       </list>
     </option>
   </component>
@@ -204,13 +162,7 @@
               <item name="OOP358411110063" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP358411110063" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP358411110063" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP358411110063" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MidTerm" type="462c0819:PsiDirectoryNode" />
+              <item name="CaseStudy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +191,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonApp">
+  <component name="RunManager" selected="Application.BankApp">
+    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.BankApp" />
+      <module name="OOP358411110063" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CaseStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="EmployeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab8.EmployeeApp" />
       <module name="OOP358411110063" />
@@ -269,17 +232,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab7.StudentApp" />
-      <module name="OOP358411110063" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,19 +289,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StudentApp" />
       <item itemvalue="Application.EmployeeApp" />
       <item itemvalue="Application.GraphicObjectApp" />
       <item itemvalue="Application.TexCalculater" />
       <item itemvalue="Application.PersonApp" />
+      <item itemvalue="Application.BankApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankApp" />
         <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.TexCalculater" />
         <item itemvalue="Application.GraphicObjectApp" />
         <item itemvalue="Application.EmployeeApp" />
-        <item itemvalue="Application.StudentApp" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550205452867</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lab:8 OOP Features">
+      <created>1550472715763</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1550472715763</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -535,7 +494,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32946146" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.16473073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.25659978" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.496875" weight="0.2900433" />
       <window_info id="Capture Tool" order="2" />
@@ -571,30 +530,10 @@
     <MESSAGE value="Lab 7" />
     <MESSAGE value="Lab 8: OOP-Inherit" />
     <MESSAGE value="MidTerm" />
-    <option name="LAST_COMMIT_MESSAGE" value="MidTerm" />
+    <MESSAGE value="Lab:8 OOP Features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab:8 OOP Features" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab3/ex1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -921,13 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab8/sheriff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -941,23 +873,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab8/Police.java">
+    <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab8/PersonApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Police.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CaseStudy/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CaseStudy/BankApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CaseStudy/bankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
