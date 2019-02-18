@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MidTerm/TexCalculater.java" afterDir="false" />
+    <list default="true" id="05bb478c-c788-49e6-b5b1-6930f48bd4b8" name="Default" comment="MidTerm">
+      <change afterPath="$PROJECT_DIR$/src/lab8/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/PersonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Police.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/sheriff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTerm/TexCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab8/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +34,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TexCalculater.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TexCalculater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+            <state relative-caret-position="298">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Honda.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Honda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sheriff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/sheriff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Police.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Police.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab8/PersonApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -44,6 +124,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +159,6 @@
         <option value="$PROJECT_DIR$/src/lab7/Car.java" />
         <option value="$PROJECT_DIR$/src/lab7/StudentApp.java" />
         <option value="$PROJECT_DIR$/src/lab7/Student.java" />
-        <option value="$PROJECT_DIR$/src/lab8/Person.java" />
         <option value="$PROJECT_DIR$/src/lab8/EmployeeApp.java" />
         <option value="$PROJECT_DIR$/src/lab8/Employee.java" />
         <option value="$PROJECT_DIR$/src/lab8/Rectangle.java" />
@@ -87,6 +167,12 @@
         <option value="$PROJECT_DIR$/src/lab8/GraphicObjectApp.java" />
         <option value="$PROJECT_DIR$/src/MidTerm/TexCalculator.java" />
         <option value="$PROJECT_DIR$/src/MidTerm/TexCalculater.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Car.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Honda.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Person.java" />
+        <option value="$PROJECT_DIR$/src/lab8/sheriff.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Police.java" />
+        <option value="$PROJECT_DIR$/src/lab8/PersonApp.java" />
       </list>
     </option>
   </component>
@@ -101,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -120,12 +204,20 @@
               <item name="OOP358411110063" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP358411110063" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP358411110063" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP358411110063" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MidTerm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TexCalculater">
+  <component name="RunManager" selected="Application.PersonApp">
     <configuration name="EmployeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab8.EmployeeApp" />
       <module name="OOP358411110063" />
@@ -170,6 +262,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.PersonApp" />
+      <module name="OOP358411110063" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab7.StudentApp" />
       <module name="OOP358411110063" />
@@ -183,17 +286,6 @@
     </configuration>
     <configuration name="TexCalculater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MidTerm.TexCalculater" />
-      <module name="OOP358411110063" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MidTerm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidTerm.TexCalculator" />
       <module name="OOP358411110063" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -246,18 +338,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.StudentApp" />
-      <item itemvalue="Application.TexCalculator" />
       <item itemvalue="Application.EmployeeApp" />
       <item itemvalue="Application.GraphicObjectApp" />
       <item itemvalue="Application.TexCalculater" />
+      <item itemvalue="Application.PersonApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.TexCalculater" />
         <item itemvalue="Application.GraphicObjectApp" />
         <item itemvalue="Application.EmployeeApp" />
         <item itemvalue="Application.StudentApp" />
-        <item itemvalue="Application.TexCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549875385347</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="MidTerm">
+      <created>1550205452867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1550205452867</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -426,6 +525,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32900432" />
@@ -435,7 +535,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32946146" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.28194296" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.16473073" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.496875" weight="0.2900433" />
       <window_info id="Capture Tool" order="2" />
@@ -468,47 +568,12 @@
     <MESSAGE value="Lab 5: findmin" />
     <MESSAGE value="Lab 6: String" />
     <MESSAGE value="Lab 6: StringBuffer &amp; StringTokenizer" />
-    <MESSAGE value="MidTerm" />
     <MESSAGE value="Lab 7" />
     <MESSAGE value="Lab 8: OOP-Inherit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 8: OOP-Inherit" />
+    <MESSAGE value="MidTerm" />
+    <option name="LAST_COMMIT_MESSAGE" value="MidTerm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab6/ex3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/ex3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab2/ex4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab2/ex5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -762,23 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -841,17 +889,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="298">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MidTerm/TexCalculater.java">
+    <entry file="file://$PROJECT_DIR$/src/lab8/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        <state relative-caret-position="175">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Honda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/sheriff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Police.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/PersonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
