@@ -2,7 +2,7 @@ package lab10;
 
 
 
-        import java.util.List;
+import java.util.List;
 
 public interface empDAO {
     public List<Employee> getAllEmp();

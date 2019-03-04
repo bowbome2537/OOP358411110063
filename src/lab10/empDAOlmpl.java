@@ -138,7 +138,7 @@ public class empDAOlmpl implements empDAO {
             int result = ps.executeUpdate();
             if (result != 0){
                 System.out.println("" +
-                "Employee with id="+emp.getId()+"was updated.");
+                        "Employee with id="+emp.getId()+"was updated.");
             }else {
                 System.out.println("Could not update employee data with id="+emp.getId());
             }
